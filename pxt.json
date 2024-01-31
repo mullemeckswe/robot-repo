@@ -1,5 +1,6 @@
 {
-    "name": "Tinybit",
+    #"name": "Tinybit",
+    "name": "Coders-Robot",
     "version": "2.0.3",
     "description": "Extension for YahBoom Tiny:bit V2.0.3",
     "license": "MIT",
@@ -13,7 +14,7 @@
         "main.ts",
         "_locales/zh-cn/Tinybit-strings.json",
         "_locales/zh-tw/Tinybit-strings.json",
-        "_locales/fr/Tinybit-strings.json"
+        "_locales/fr/Tinybit-strings.json",
         "_locales/sv/Tinybit-strings.json"
     ],
     "testFiles": [
